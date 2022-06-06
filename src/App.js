@@ -7,8 +7,7 @@ import Main from './Main/Main';
 import Footer from './Footer/Footer.js';
 import './App.css';
 import './Main/Main.css';
-import ZodiacCard from './ZodiacCard/ZodiacCard';
-('./ZodiacCard.css');
+
 function App() {
   return (
     <div className='App'>
